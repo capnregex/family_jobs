@@ -1,0 +1,27 @@
+
+ul.menu, ul.menu li {
+  display:none;
+}
+
+a,
+a:link,
+a:visited,
+a:hover {
+  color:black;
+  text-decoration:none;
+}
+
+table.tasks {
+  border-collapse:collapse;
+  width:100%;
+}
+
+.tasks td,
+.tasks th { 
+  border: solid black 1px; 
+  padding: 0 0.3em;
+  text-align: left;
+  vertical-align:top;
+  min-width: 50px;
+  height: 50px;
+}
