@@ -8,12 +8,13 @@ ul.menu li {
   display:inline;
 }
 
-table {
+table.tasks {
   border-collapse:collapse;
   width:100%;
 }
 
-td, th { 
+.tasks td,
+.tasks th { 
   border: solid black 1px; 
   padding: 0 0.3em;
   text-align: left;

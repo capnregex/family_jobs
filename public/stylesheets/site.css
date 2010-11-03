@@ -10,7 +10,6 @@ ul.menu li {
 
 table.tasks {
   border-collapse:collapse;
-  width:100%;
 }
 
 .tasks td,
@@ -20,5 +19,4 @@ table.tasks {
   text-align: left;
   vertical-align:top;
   min-width: 50px;
-  height: 50px;
 }

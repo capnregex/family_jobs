@@ -1,0 +1,4 @@
+#!/usr/bin/bash 
+
+wkhtmltopdf http://tasks/ /tmp/tasks.pdf
+lp /tmp/tasks.pdf
