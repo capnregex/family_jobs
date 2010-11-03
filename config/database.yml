@@ -39,13 +39,13 @@ test:
   encoding: unicode
   database: family_jobs_test
   pool: 5
-  username: family_jobs
-  password: family
+#  username: family_jobs
+#  password: family
 
 production:
   adapter: postgresql
   encoding: unicode
   database: family_jobs_production
   pool: 5
-  username: family_jobs
-  password: family
+#  username: family_jobs
+#  password: family
